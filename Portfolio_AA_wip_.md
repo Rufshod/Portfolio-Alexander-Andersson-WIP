@@ -3,7 +3,7 @@
 
 # Alexander Andersson
 
-I'm and aspiring developer that is currently studying AI and Machine learning.
+I'm an aspiring developer that is currently studying AI and Machine learning.
 
 
 ---
